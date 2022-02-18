@@ -2,12 +2,14 @@
 
 Created with CodeSandbox
 
-//CHALLENGE: Make the code in App.jsx work.
-//The final app should have a single contact
-//with fName, lName and email.
+# CHALLENGE: Make the code in App.jsx work.
 
-//HINT: You'll need to apply the following things you learnt:
-//1. Using JS Objects with state.
-//2. Making use of previous state when changing state.
-//3. Working with forms in React.
-//4. Handling events
+The final app should have a single contact
+with fName, lName and email.
+
+### HINT: You'll need to apply the following things you learned:
+
+1. Using JS Objects with state.
+2. Making use of previous state when changing state.
+3. Working with forms in React.
+4. Handling events
